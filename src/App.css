@@ -1,0 +1,93 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.ctr{
+ background-color: #ff7300a2;
+ height: 129vh;
+ width: 200vh;
+}
+.menu :nth-child(2){
+  margin-left: 48rem;
+}
+.menu ul{
+  height: 72px;
+  width: 1515 px;
+  background-color: rgba(246, 4, 4, 0.717);
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.menu li{
+  list-style: none;
+}
+.menu a{
+  text-decoration: none;
+  font-size: 25px;
+  color: #021718;
+
+}
+.zagol{
+  display: block;
+  justify-content: flex-start;
+  margin-top: 250px;
+  margin-left: 150px;
+}
+.zagol h1{
+  font-size: 64px;
+  color:  #021718;
+
+}
+.zagol p{
+  font-size: 24px;
+  width: 418px;
+
+}
+.zagol button{
+  width: 196px;
+  height: 60px;
+  border-radius: 8px;
+  background-color: #01847F;
+  color: #FFFFFA;
+  font-size: 24px;
+
+}
+.img{
+  position: absolute;
+  left: 460px;
+  top: 88px;
+}
+.green{
+  position: absolute;
+  left: 793px;
+  top: 224px;
+}
+.girl {
+position: absolute;
+left: 770px;
+top: 220px;
+}
+.insta {
+  display: flex;
+  padding-top: 12rem;
+  gap: 3rem;
+  padding-left: 7rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
